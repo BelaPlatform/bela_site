@@ -19,9 +19,13 @@ boards:
 accessories:
   - title: Trill Touch Sensors
     image: trill_family.png
-    desc: Trill is a family of touch sensors designed to make it easy to bring high-resolution touch sensing to your interactive projects. There are five Trill types, all designed by the team that brought you Bela but compatible with a wide range of systems. 
+    desc: Trill is a family of touch sensors designed to make it easy to bring high-resolution touch sensing to your interactive projects. There are five Trill types, all designed by the team that brought you Bela but compatible with a wide range of systems.
     url: /products/trill/
     button_text: Learn More
+  - title: Bela Mini Multichannel Expander
+    image: bela-mini-multichannel-expander.jpg
+    desc: This add-on for Bela Mini allows you to combine powerful interaction with multichannel audio, opening up new frontiers in instrument design, interactivity and sound installation. It expands your audio input and output channels from 2 to a whopping 8 in and 8 out at 44.1kHz.
+    url: https://shop.bela.io/collections/bela-mini-multichannel
   - title: CTAG Multi-channel system
     image: ctag.png
     desc: CTAG is a Bela-compatible multi-channel Linux audio system, developed in collaboration with CTAG Audio. Choose from CTAG FACE (4 channels in, 8 channels out) or CTAG BEAST (8 channels in, 16 channels out). Both are available as fully assembled kits, or standalone capes. Add a Bela cape to make your multi-channel system interactive!
@@ -40,7 +44,7 @@ modular:
     image: salt.png
     url: https://shop.bela.io/collections/modular/products/salt
   - title: PEPPER
-    desc: PEPPER is a kit for building a module to integrate your Bela unit with the world of Modular and Eurorack synths. PEPPER includes a custom-designed, bare PCB that comes with a list of common through-hole components for you to source, as well as a black faceplate. Solder it together, attach PEPPER to your Bela system and you can start prototyping and experimenting with Bela and your modular synth. 
+    desc: PEPPER is a kit for building a module to integrate your Bela unit with the world of Modular and Eurorack synths. PEPPER includes a custom-designed, bare PCB that comes with a list of common through-hole components for you to source, as well as a black faceplate. Solder it together, attach PEPPER to your Bela system and you can start prototyping and experimenting with Bela and your modular synth.
     image: pepper.png
     url: https://shop.bela.io/pepper
 trill:
@@ -55,7 +59,7 @@ trill:
     dimensions: 69.0 mm x 69.0 mm
     url: https://shop.bela.io/products/trill-square/
   - title: Trill Craft
-    desc: Trill Craft is a 30-channel breakout board, perfect for building custom touch surfaces out of anything conductive - wire, copper tape, conductive fabric, fruit, water and more. 
+    desc: Trill Craft is a 30-channel breakout board, perfect for building custom touch surfaces out of anything conductive - wire, copper tape, conductive fabric, fruit, water and more.
     image: craft.png
     dimensions: 52.0 mm x 21.0 mm
     url: https://shop.bela.io/products/trill-craft/
