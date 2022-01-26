@@ -27,6 +27,8 @@ The current Bela team consists of 5 members who collaborate remotely from London
 
 More information on the technology behind Bela can be found on our Knowledge Base [http://learn.bela.io](http://learn.bela.io) and GitHub repository [https://github.com/BelaPlatform/Bela](https://github.com/BelaPlatform/Bela). Projects made by the Bela community are featured on our blog [https://blog.bela.io](https://blog.bela.io).
 
-To apply, please send a CV, a brief cover letter, an example of recent software development work, and salary expectation to info@bela.io. Please also direct any questions on the position to info@bela.io.
+### Apply now:
+
+**To apply, please send a CV, a brief cover letter, an example of recent software development work, and salary expectation to info@bela.io. Please also direct any questions on the position to info@bela.io.**
 
 **Closing date 28th February 2022 but we will begin interviewing as applications come in.**
