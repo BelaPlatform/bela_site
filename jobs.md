@@ -1,7 +1,7 @@
 ---
 layout: default
 hero-image: index.jpg
-title: Come and Work with us at Bela
+title: Come and Work with us!
 permalink: /jobs
 ---
 
