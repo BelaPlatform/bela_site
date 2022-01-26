@@ -1,12 +1,12 @@
-- name: Opal Rhythm Computor
-  image: ed-dmx.jpg
-  desc: by Ed DMX
-  url: "https://blog.bela.io/2018/03/27/opal-rhythm-computor-dmx-krew/"
-- name: Klank Experimenteer Station
-  image: fedde-ten-berge.jpg
-  desc: by Fedde ten Berge
-  url: "https://blog.bela.io/2017/12/12/fedde-ten-berge-instruments-bela/"
-- name: Fielding
-  image: til-boverman.jpg
-  desc: by Till Bovermann
-  url: "https://blog.bela.io/2017/09/29/till-bovermann-bela-supercollidor/"
+- name: Prism Bell
+  image: prism-bell.jpg
+  desc: by Lia Mice
+  url: "https://blog.bela.io/prism-bell-lia-mice/"
+- name: Audio Igloo
+  image: audio-igloo.jpg
+  desc: by Paul Biessmann and Benoît Maubrey
+  url: "https://blog.bela.io/audio-igloo-speaker-installation/"
+- name: Sonic Circuit Sculptures
+  image: circuit-sculpture.jpg
+  desc: by Helen Leigh
+  url: "https://blog.bela.io/trill-helen-leigh-craft-circuit-sculpture/"
