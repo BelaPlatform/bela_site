@@ -27,7 +27,7 @@ The current Bela team consists of 5 members who collaborate remotely from London
 
 More information on the technology behind Bela can be found on our Knowledge Base [http://learn.bela.io](http://learn.bela.io) and GitHub repository [https://github.com/BelaPlatform/Bela](https://github.com/BelaPlatform/Bela). Projects made by the Bela community are featured on our blog [https://blog.bela.io](https://blog.bela.io).
 
-We welcome applications from everyone, and we are especially open to hearing from people from groups normally underrepresented in digital audio and embedded computing, based on factors such as (but not limited to) gender expression, race, ethnicity, sexual orientation, and/or physical ability.
+We welcome applications from everyone, and we are especially open to hearing from people normally underrepresented in digital audio and embedded computing, based on factors such as (but not limited to) gender expression, race, ethnicity, sexual orientation, and/or physical ability.
 
 ## Apply now!
 
