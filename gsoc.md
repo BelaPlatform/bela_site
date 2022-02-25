@@ -28,11 +28,13 @@ On top of that, other workbench tools could be added, including:
 
 This project would be built primarily in JavaScript, with some secondary work in C++ to connect to the Bela core code. We are open to the inclusion of existing open-source libraries to build any of these components.
 
-**Goal:** Improve the features of the Bela oscilloscope and turn it into a full-fledged workbench for audio-rate signals.
+**Expected outcomes:** Improve some of the features of the Bela oscilloscope and turn it into a full-fledged workbench for audio-rate signals.
 **Hardware Skills:** Minimal
 **Software Skills:** Javascript, HTML, frontend
 **Possible Mentors:** Giulio Moro
+**Expected size of project:** 175 or 350 hour
 **Upstream Repository:** [https://github.com/BelaPlatform/Bela/](https://github.com/BelaPlatform/Bela/)
+**Difficulty:** Medium
 
 ## Live patching with Pure Data on embedded devices
 
@@ -51,12 +53,29 @@ Knowledge of C is required as part of the work will take place in the audio back
 A good starting point for the project would be last year's [GSoC project](https://summerofcode.withgoogle.com/archive/2020/projects/4882628517298176/) which managed to run PurrData entirely in the browser.
 At the end of a successful project we should be able to submit a pull request in the upstream Pure Data or Purr Data repositories. The benefits of this contribution will not be exclusive to Bela, but can benefit the Pd community at large, making it easier to use Pure Data on embedded devices.
 
-**Goal:** Allow live patching of Pd on embedded devices.
+**Expected outcomes:** Allow live patching of Pd on embedded devices.
 **Hardware Skills:** Minimal
 **Software Skills:** C (minimal), Javascript/HTML or Tcl/Tk
 **Possible Mentors:** Giulio Moro
+**Expected size of project:** 350 hour
 **Upstream Repository:** [http://github.com/pure-data/pure-data/](http://github.com/pure-data/pure-data/), [https://git.purrdata.net/jwilkes/purr-data/](https://git.purrdata.net/jwilkes/purr-data/), [Previous GSoC Project from 2020](https://gist.github.com/hugonxc/75e0bb838b1953cfa52fa87045bf5b98#file-gsoc2020_hugocarvalho_purrdata-md)
+**Difficulty:** Medium/hard
 
+## Running Machine Learning Models on Bela via PyTorch
+
+(co-mentored with the Intelligent Instruments Lab - see [iil.is](https://iil.is/))
+
+Machine learning (ML) is an omni-present technology in today’s world, but has yet to make a significant impact in the domain of embedded interactive audio and sensor projects. ML has huge potential for this space, enabling new ways of working with gestures, mappings, sounds and more. One approach to enabling the use of ML in Bela projects is to support running PyTorch models. PyTorch ([pytorch.org](https://pytorch.org)) is an open source, Python-based machine learning framework, used throughout research and industry.
+
+This project would involve developing tools and workflows for combining PyTorch with Bela, beginning with streamlining the compilation and distribution of libtorch for Bela, and investigating its performance through creating benchmarks and comparisons. Further objectives would then include creating a small examples library including Bela web GUIs, and creating project templates both in Python and for Bela.
+
+**Expected outcomes:** Investigate a PyTorch workflow on Bela and create an example project.
+**Hardware Skills:** Minimal
+**Software Skills:** C (minimal), Machine Learning, Python, p5.js.
+**Possible Mentors:** Giulio Moro, Victor Shepardson, Jack Armitage
+**Expected size of project:** 350 hour
+**Upstream Repository:** [https://github.com/pytorch/pytorch](https://github.com/pytorch/pytorch)
+**Difficulty:** Easy/Medium
 
 
 <!-- ## Browser-based IDE
@@ -67,13 +86,15 @@ Bela's browser-based IDE is served by a node.js server running home-grown module
 
 The Trill sensors are a family of capacitive touch sensing devices which connect to a host device via I2C. While I2C is widespread on embedded computers and microcontroller boards, it is not exposed on most desktop and laptop computers.
 
-In order to use Trill with your computer you normally need an I2C-USB adapter or a microcontroller board (e.g.: Arduino) which normally relay the information to a host computer via Serial. This project will simplify using Trill sensors on a non-embedded device by allowing to seamlessly interact with the sensors using a serial device as a proxy. In the process, you will expand the Trill library to handle the serial proxy. Additionally, you will update the interface to communicate with Trill from Pure Data, Supercollider and Csound, which is currently exclusive to Bela, to be accesible from these languages on any systems.
+In order to use Trill with your computer you normally need an I2C-USB adapter or a microcontroller board (e.g.: Arduino) which normally relay the information to a host computer via Serial. This project will simplify using Trill sensors on a non-embedded device by allowing to seamlessly interact with the sensors using a serial device as a proxy. In the process, you will expand the Trill library to handle the serial proxy. Additionally, you will update the interface to communicate with Trill from Pure Data, Supercollider and Csound, which is currently exclusive to Bela, to be accessible from these languages on any systems.
 
-**Goal:** Create a serial proxy for the Trill capactive touch sensors.
+**Expected outcomes:** Create a serial proxy for the Trill capacitive touch sensors.
 **Hardware Skills:** Minimal
 **Software Skills:** C, C++, Serial, I2C
 **Possible Mentors:** Giulio Moro
+**Expected size of project:** 175 hour
 **Upstream Repository:** [https://github.com/BelaPlatform/Bela](https://github.com/BelaPlatform/Bela), [https://github.com/thestk/rtaudio](https://github.com/BelaPlatform/Bela), [https://github.com/PortAudio/portaudio](https://github.com/PortAudio/portaudio)
+**Difficulty:** Medium
 
 <!-- ## Improving support for other programming languages on Bela
 
@@ -94,11 +115,13 @@ When adding support for Supercollider and Csound, we had to add a new audio driv
 You will need a good knowledge of C and build systems.
 Upon successful completion, the project will make it easier to add more applications and programming languages to Bela.
 
-**Goal:** Improve the portability of Bela code across audio APIs/
+**Expected outcomes:** Improve the portability of Bela code across audio APIs/
 **Hardware Skills:** Minimal
 **Software Skills:** C / make
 **Possible Mentors:** Giulio Moro
+**Expected size of project:** 350 hour
 **Upstream Repository:** [https://github.com/BelaPlatform/Bela](https://github.com/BelaPlatform/Bela), [https://github.com/thestk/rtaudio](https://github.com/BelaPlatform/Bela), [https://github.com/PortAudio/portaudio](https://github.com/PortAudio/portaudio)
+**Difficulty:** Medium
 
 ## Building Bela images
 
@@ -106,11 +129,13 @@ The image that Bela ships with is built from [this repo](https://github.com/Bela
 You will need experience with scripting (mostly bash), build systems and Linux management.
 Upon successful completion of the project, the Bela image will follow more closely the upstream development and as a consequence it will be updated more often and more easily.
 
-**Goal:** Improve the maintainability of the Bela image by forking it off the beagleaboard image-builder rep.
+**Expected outcomes:** Improve the maintainability of the Bela image by forking it off the beagleaboard image-builder rep.
 **Hardware Skills:** Minimal
 **Software Skills:** bash, kernel building
 **Possible Mentors:** Giulio Moro
+**Expected size of project:** 350 hour
 **Upstream Repository:** [https://github.com/BelaPlatform/bela-image-builder](https://github.com/BelaPlatform/bela-image-builder), [https://github.com/beagleboard/image-builder](https://github.com/beagleboard/image-builder)
+**Difficulty:** Medium
 
 
 <!-- ## Modernising Heavy, a compiler for Pure Data patches
