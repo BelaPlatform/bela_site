@@ -7,7 +7,7 @@ permalink: /consultancy
 
 Have you been prototyping a product with Bela which you are now ready to bring to market? Are you a startup who wants a quick way of getting your hardware market ready?
 
-We are available for consultancy and are always keen to lend our engineering and design expertise to help integrate Bela into commercial products. By adapting our designs to your needs we can help you achieve faster times to market than with fully custom solutions, and help you transform your ideas from prototype to product.
+The Bela team are available for consultancy and we are always keen to lend our engineering and design expertise to help integrate Bela into commercial products. By adapting our designs to your needs we can help you achieve faster times to market in comparison with fully custom solutions, and help you transform your ideas from prototype to product.
 
 We offer the following services:
 
@@ -32,4 +32,4 @@ We offer the following services:
 
 We specialise in embedded real-time audio architectures for digital musical instruments, audio interfaces, custom musical controllers, and general DSP systems, but our experience spans diverse industries. Previous consultancy projects include musical devices, entertainment systems, automotive sound systems, consumer products and health and wellbeing technologies.
 
-To find out more about how we can help your project please <a href="mailto:info@bela.io">drop us a line</a>..
+To find out more about how we can help your project please <a href="mailto:info@bela.io">drop us a line</a>.
