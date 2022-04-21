@@ -13,6 +13,6 @@
 - name: Desert and Sonic Ecosystems, Incorporating Environmental Factors within Site-Responsive Sonic Art
   image: desert.jpg
   url: "https://www.researchgate.net/publication/322511282_Desert_and_Sonic_Ecosystems_Incorporating_Environmental_Factors_within_Site-Responsive_Sonic_Art"
-- name: Building a maker community around an open hardware platform
-  image: steim.jpg
-  url: "https://www.researchgate.net/publication/316702017_Building_a_Maker_Community_Around_an_Open_Hardware_Platform"
+- name: An embedded multichannel sound acquisition system for drone audition
+  image: drone.jpg
+  url: "https://arxiv.org/pdf/2101.06795.pdf"

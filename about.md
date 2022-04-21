@@ -9,7 +9,7 @@ title: All about Bela
 
 Bela is an embedded computing platform for creating beautifully responsive interactive projects. Bela provides ultra-low latency, high quality audio, analog and digital I/O in a tiny self-contained package that can be easily embedded into a huge range of applications. Built on the [BeagleBone](https://beagleboard.org/) family of open-source embedded computers, Bela combines the processing power of an embedded computer with the timing precision and connectivity of a microcontroller.
 
-Bela features an on-board IDE that launches right in the browser, making it easy to get up and running without requiring any additional software. Along with dozens of pre-loaded examples, the Bela IDE is also loaded with great tools digital makers need, like an interactive pin diagram and an in-browser oscilloscope. Creating digital interaction has never been so easy to start or so accessible to learners. 
+Bela features an on-board IDE that launches right in the browser, making it easy to get up and running without requiring any additional software. Along with dozens of pre-loaded examples, the Bela IDE is also loaded with great tools digital makers need, like an interactive pin diagram and an in-browser oscilloscope. Creating digital interaction has never been so easy to start or so accessible to learners.
 
 <span class="list-header">Bela is fast.</span> Bela's dedicated hardware and software environment provides hard real-time performance with 1ms latency while retaining the capabilities and power of a 1GHz embedded computer running Linux.
 
@@ -17,7 +17,7 @@ Bela features an on-board IDE that launches right in the browser, making it easy
 
 <span class="list-header">Bela is small.</span> Bela's compact form factor means that it easily integrates into portable interactive objects, and the condensed Bela Mini means that it fits in more places than ever before. Connect to your computer to program Bela, and then power from an external battery to run in standalone mode - no laptop required.
 
-<span class="list-header">Bela makes it easy to get started.</span> No complicated setup or complex toolchains. Just connect Bela to your computer, launch the on-board IDE in a web browser, and start coding right away. 
+<span class="list-header">Bela makes it easy to get started.</span> No complicated setup or complex toolchains. Just connect Bela to your computer, launch the on-board IDE in a web browser, and start coding right away.
 
 <span class="list-header">Bela has a powerful IDE.</span>The Bela IDE has great features interactive creators need, like a huge collection of example projects in a variety of languages and an in-browser oscilloscope for visualising and examining your signals. Recently we added a GUI integration, so you can create graphical interfaces for Bela using the coding language <a href='https://p5js.org' target='_blank'>p5</a>. This means you can generate data for Bela with on-screen buttons and sliders, or use data from Bela to drive on-screen graphics.
 
@@ -37,7 +37,7 @@ Bela runs a custom audio processing environment based on the Xenomai real-time L
 
 {% include photocaption.html src='bela_software.png' %}
 
-For development, Bela lets you code the way that suits you best, and gives you the tools you need to do it. Plug in your Bela and launch our in-browser IDE, where you can write code in C++, SuperCollider, Csound, upload PureData patches. The IDE also includes an extensive library of example projects, illustrating synthesis, sensor handling, and a range of other techniques in a variety of languages. There is also an in-browser oscilloscope which lets you visualise multiple channels of data simulteanously, without disconnecting the board - an essential tool for sensor debugging - as well as code libraries and GUI integration.
+For development, Bela lets you code the way that suits you best, and gives you the tools you need to do it. Plug in your Bela and launch our in-browser IDE, where you can write code in C++, SuperCollider, Csound, upload PureData patches. The IDE also includes an extensive library of example projects, illustrating synthesis, sensor handling, and a range of other techniques in a variety of languages. There is also an in-browser oscilloscope which lets you visualise multiple channels of data simultaneously, without disconnecting the board - an essential tool for sensor debugging - as well as code libraries and GUI integration.
 
 # Who makes Bela?
 
@@ -47,7 +47,7 @@ Bela was born in the [Augmented Instruments Laboratory](http://instrumentslab.or
 
 <p class="list-header">I want to make a commercial product with Bela or integrate it into an application. How do I make that happen?</p>
 
-The Bela team is always eager to talk to people wanting to integrate Bela into commercial products, and we're available for consultancy to integrate Bela into applications for commercial deployment. Please <a href="mailto:info@bela.io">drop us an email</a> with details of your plan, and we'd be happy to discuss it.
+The Bela team is always eager to talk to people wanting to integrate Bela into commercial products, and we're available for consultancy to integrate Bela into applications for commercial deployment. Check out our <a href="https:bela.io/consultancy">consultancy page</a> for more information and please <a href="mailto:info@bela.io">drop us an email</a> with details of your plan, and we'd be happy to discuss it.
 
 <p class="list-header">I've made something really cool with Bela! Can I put your logo on it?</p>
 
