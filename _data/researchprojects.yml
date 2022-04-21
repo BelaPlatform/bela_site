@@ -10,9 +10,9 @@
 - name: Auditory prediction cues motor preparation in the absence of movements
   image: auditory.jpg
   url: "https://www.sciencedirect.com/science/article/pii/S1053811918302544"
-- name: Desert and Sonic Ecosystems, Incorporating Environmental Factors within Site-Responsive Sonic Art
-  image: desert.jpg
-  url: "https://www.researchgate.net/publication/322511282_Desert_and_Sonic_Ecosystems_Incorporating_Environmental_Factors_within_Site-Responsive_Sonic_Art"
 - name: An embedded multichannel sound acquisition system for drone audition
   image: drone.jpg
   url: "https://arxiv.org/pdf/2101.06795.pdf"
+- name: Desert and Sonic Ecosystems, Incorporating Environmental Factors within Site-Responsive Sonic Art
+  image: desert.jpg
+  url: "https://www.researchgate.net/publication/322511282_Desert_and_Sonic_Ecosystems_Incorporating_Environmental_Factors_within_Site-Responsive_Sonic_Art"
