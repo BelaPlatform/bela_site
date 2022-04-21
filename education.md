@@ -5,7 +5,7 @@ title: Bela in Education
 hero-image: education.jpg
 ---
 
-Bela was created to make the world of interactive signal processing accessible to a wider community. Bela offers state-of-the-art methods and materials for teaching in a wide range of subjects at a variety of levels, and is an ideal tool for research that requires precision and stability. Taking the dive into the world of embedded computing, sensors, actuators and DSP can be intimidating, and the learning curve is steep. Bela comes with a library of over 100 well-documented examples, circuit diagrams and resources, to provide as many entry points as possible for students, educators and researchers from a huge range of disciplines.
+Bela was created to make the world of interactive signal processing accessible to a wider community. Bela offers state-of-the-art methods and materials for teaching in a wide range of subjects at a variety of levels, and is an ideal tool for research that requires precision and stability. Taking the dive into the world of embedded computing, sensors, actuators and DSP can be intimidating, and the learning curve is steep. Bela comes with a library of over 100 well-documented examples, with circuit diagrams and resources, to provide as many entry points as possible for students, educators and researchers from a huge range of disciplines.
 
 {% include sec-nav-2.html sec1='teaching' sec2='research' %}
 
@@ -47,7 +47,7 @@ Bela is being used in a number of universities around the world. Below are some 
 Site-responsive Sonic Art  
 Arizona State University, USA
 
-> In the School of Arts Media and Engineering at Arizona State University, [Lauren Hayes](https://www.pariesa.com){:target="_blank"} leads a course on site-responsive sonic art, where Bela is among the tools students use to create mobile, desert-proof installations. 
+> In the School of Arts Media and Engineering at Arizona State University, [Lauren Hayes](https://www.pariesa.com){:target="_blank"} leads a course on site-responsive sonic art, where Bela is among the tools students use to create mobile, desert-proof installations.
 >
 > Lauren Hayes is a musician and improviser who builds and performs on hybrid analog/digital instruments. You can read about Lauren's work with Bela [here](https://www.researchgate.net/publication/322511282_Desert_and_Sonic_Ecosystems_Incorporating_Environmental_Factors_within_Site-Responsive_Sonic_Art){:target="_blank"}.
 
@@ -55,8 +55,8 @@ Arizona State University, USA
 Physical Interaction Design  
 Aalto University, Finland
 
-> In the School or Arts, Design and Architecture at Aalto University, Helsinki, the students on the masters module Physical Interaction Design use Bela as their main development platform. Through a newly-designed syllabus, the course introduces the tools, concepts and practices for creating new interactions with digital environments. 
-> 
+> In the School or Arts, Design and Architecture at Aalto University, Helsinki, the students on the masters module Physical Interaction Design use Bela as their main development platform. Through a newly-designed syllabus, the course introduces the tools, concepts and practices for creating new interactions with digital environments.
+>
 > The course, taught by Robert Jack and Camilo Sanchez in 2018, is currently led by Koray Tahiroğlu, head of the [Sound and Physical Interaction](https://sopi.aalto.fi/){:target="_blank"} research group.
 
 {:.list-header}
