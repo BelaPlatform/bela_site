@@ -47,7 +47,7 @@ Bela was born in the [Augmented Instruments Laboratory](http://instrumentslab.or
 
 <p class="list-header">I want to make a commercial product with Bela or integrate it into an application. How do I make that happen?</p>
 
-The Bela team is always eager to talk to people wanting to integrate Bela into commercial products, and we're available for consultancy to integrate Bela into applications for commercial deployment. Check out our [consultancy page](https:bela.io/consultancy) for more information and please <a href="mailto:info@bela.io">drop us an email</a> with details of your plan, and we'd be happy to discuss it.
+The Bela team is always eager to talk to people wanting to integrate Bela into commercial products, and we're available for consultancy to integrate Bela into applications for commercial deployment. Check out our [consultancy page](consultancy) for more information and please <a href="mailto:info@bela.io">drop us an email</a> with details of your plan, and we'd be happy to discuss it.
 
 <p class="list-header">I've made something really cool with Bela! Can I put your logo on it?</p>
 
