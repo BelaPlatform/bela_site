@@ -39,14 +39,18 @@ accessories:
     image: audio_expander.png
     url: https://shop.bela.io/products/audio-expander
 modular:
-  - title: SALT
-    desc: SALT is a fully programmable Bela synth module created in collaboration with Rebel Technology. This module has 4 CV and 4 trigger, expandable up to 8 of each with the SALT+ expander. Comes fully assembled and ready to use, including an embedded Bela system.
-    image: salt.png
-    url: https://shop.bela.io/collections/modular/products/salt
+  - title: GLISS
+    desc: GLISS is an elegant and intuitive synthesizer module for touch control which is now live on Crowd Supply. This Eurorack (4HP) module lets you draw waveforms directly into your system so you can add a human touch to your control signals. It also can act as a LFO, envelope generator, signal visualizer, attenuator, slider, or expressive capacitive keyboard. 
+    image: gliss.png
+    url: https://www.crowdsupply.com/augmented-instruments/gliss/
   - title: PEPPER
     desc: PEPPER is a kit for building a module to integrate your Bela unit with the world of Modular and Eurorack synths. PEPPER includes a custom-designed, bare PCB that comes with a list of common through-hole components for you to source, as well as a black faceplate. Solder it together, attach PEPPER to your Bela system and you can start prototyping and experimenting with Bela and your modular synth.
     image: pepper.png
     url: https://shop.bela.io/pepper
+  - title: SALT (limited edition)
+    desc: SALT is a fully programmable Bela synth module created in collaboration with Rebel Technology. This module has 4 CV and 4 trigger, expandable up to 8 of each with the SALT+ expander. Comes fully assembled and ready to use, including an embedded Bela system.
+    image: salt.png
+    url: https://shop.bela.io/collections/modular/products/salt
 trill:
   - title: Trill Bar
     desc: Trill Bar is a one-axis multi-touch slider, capable of detecting up to five simultaneous touches as well as touch sizes.
