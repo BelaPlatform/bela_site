@@ -1,4 +1,4 @@
 ---
 redirect_to:
-  - https://www.crowdsupply.com/augmented-instruments/gliss
+  - https://learn.bela.io/gliss
 ---
